@@ -1,0 +1,30 @@
+.page-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: bree serif;
+  text-align: center;
+  font-size: 40px;
+}
+.description {
+  color: #ffffff;
+}
+.btn {
+  color: black;
+  background-color: #ffffff;
+  border-radius: 9px;
+  padding: 20px;
+  border: 0px solid;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
